@@ -1,27 +1,51 @@
 # Hi 👋 I'm Rehan Khan
 
 **Software Engineer | Full Stack Developer**
-🌍 Based in Rawalakot, Pakistan
-Building web applications, AI tools, and scalable platforms
+🌍 Rawalakot, Pakistan
+
+Building scalable **web platforms, AI tools, and developer utilities**.
+
+---
+
+## ⚡ Tech Stack
+
+**Languages:** JavaScript • Python • PHP • C#
+**Frontend:** React.js • Next.js • HTML • CSS
+**Backend:** Django • Node.js • .NET • PHP
+**Databases:** MySQL • PostgreSQL • MongoDB
+**Tools:** Git • Linux • Docker • REST APIs
+
+---
+
+## 🚀 Projects
+
+**ReadWithUs**
+Large-scale reading platform built with PHP and MySQL.
+
+**E-Voting System**
+Secure online voting system.
+
+**Insidious AI**
+Gaming enhancement tool built in C# and .NET.
+
+**Sky Resume**
+Dynamic resume builder using Django + Next.js.
 
 
 ---
 
-##  About Me
+## 📊 GitHub Stats
 
-I am a full-stack developer with experience building modern web applications, developer tools, and AI-powered platforms. I enjoy working across the entire stack — from backend systems to frontend interfaces.
+![Stats](https://github-readme-stats.vercel.app/api?username=Rehan-78690\&show_icons=true\&theme=github_dark)
 
-I started my development journey with **PHP**, and expanded into modern frameworks including **Django, React, Next.js, Node.js, and .NET**.
-
-I focus on building **real-world products**, clean architectures, and scalable applications.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-78690\&layout=compact\&theme=github_dark)
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [rehan10crkt@gmail.com](mailto:rehan10crkt@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/rehan-khan-205a54310
+Email: [rehan10crkt@gmail.com](mailto:rehan10crkt@gmail.com)
+LinkedIn: https://www.linkedin.com/in/rehan-khan-205a54310
 
----
+⭐ Always building, always learning.
 
-⭐ *Always building, always learning.*
