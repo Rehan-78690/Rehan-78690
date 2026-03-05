@@ -17,7 +17,7 @@ Building scalable **web platforms, AI tools, and developer utilities**.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 **ReadWithUs**
 Large-scale reading platform built with PHP and MySQL.
