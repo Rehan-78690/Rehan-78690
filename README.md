@@ -17,46 +17,6 @@ I focus on building **real-world products**, clean architectures, and scalable a
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-* JavaScript
-* Python
-* C#
-* PHP
-
-### Frontend
-
-* React.js
-* Next.js
-* HTML5
-* CSS3
-* Tailwind
-
-### Backend
-
-* Django
-* Node.js
-* .NET
-* PHP
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Linux
-* REST APIs
-
----
-
 ## 📂 Featured Projects
 
 ### 📚 ReadWithUs 
@@ -78,22 +38,7 @@ https://readwithus.org.uk/
 
 ---
 
-### 🗳️ E-Voting System
-
-A secure online voting platform designed for digital elections.
-
-**Features**
-
-* Secure voting system
-* User authentication
-* Election result calculation
-* Admin dashboard
-
-Tech: PHP / Web Technologies
-
----
-
-### 🎮 NCSAI (Gaming Enhancement Tool)
+### 🎮 Insidious AI (Gaming Enhancement Tool)
 
 A desktop gaming enhancement tool designed to improve gameplay interaction and system control.
 
