@@ -36,9 +36,10 @@ Dynamic resume builder using Django + Next.js.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rehan-78690\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-78690\&layout=compact\&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehan-78690&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-78690&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
