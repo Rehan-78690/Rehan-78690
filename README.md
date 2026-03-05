@@ -49,4 +49,4 @@ LinkedIn: https://www.linkedin.com/in/rehan-khan-205a54310
 
 ⭐ Always building, always learning.
 
-![Snake animation](https://github.com/Rehan-78690/Rehan-78690/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rehan-78690/Rehan-78690/output/github-contribution-grid-snake.svg)
