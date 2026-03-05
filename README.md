@@ -9,22 +9,17 @@ Building scalable **web platforms, AI tools, and developer utilities**.
 
 ## ⚡ Tech Stack
 
-**Languages:** JavaScript • Python • PHP • C#
-**Frontend:** React.js • Next.js • HTML • CSS
-**Backend:** Django • Node.js • .NET • PHP
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
+ 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
- 
-**Databases:** MySQL • PostgreSQL • MongoDB
-**Tools:** Git • Linux • Docker • REST APIs
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -54,3 +49,4 @@ LinkedIn: https://www.linkedin.com/in/rehan-khan-205a54310
 
 ⭐ Always building, always learning.
 
+![Snake animation](https://github.com/Rehan-78690/Rehan-78690/blob/output/github-contribution-grid-snake.svg)
