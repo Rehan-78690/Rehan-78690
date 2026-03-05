@@ -17,58 +17,6 @@ I focus on building **real-world products**, clean architectures, and scalable a
 
 ---
 
-## 📂 Featured Projects
-
-### 📚 ReadWithUs 
-
-A large-scale reading and content platform built with **PHP**, designed to allow users to explore, read, and interact with digital content in a structured and scalable environment.
-
-**Features**
-
-* User authentication and profiles
-* Content management system
-* Reading interface and content organization
-* Scalable backend architecture
-* Admin management system
-
-Tech: **PHP, MySQL, JavaScript**
-
-Repository:
-https://readwithus.org.uk/
-
----
-
-### 🎮 Insidious AI (Gaming Enhancement Tool)
-
-A desktop gaming enhancement tool designed to improve gameplay interaction and system control.
-
-Tech: **C# / .NET**
-
----
-
-### 🛒 Easy-Case E-commerce
-
-A complete e-commerce store with product catalog, shopping cart, and order management.
-
-**Features**
-
-* Product catalog
-* Shopping cart
-* Order processing
-* Admin management
-
-Tech: **JavaScript / Web Stack**
-
----
-
-### 📄 Sky Resume Builder
-
-A resume generation platform that allows users to create professional resumes dynamically.
-
-Tech: **Django + Next.js**
-
-
-
 ## 📫 Contact
 
 📧 Email: [rehan10crkt@gmail.com](mailto:rehan10crkt@gmail.com)
