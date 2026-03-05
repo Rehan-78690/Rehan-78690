@@ -1,13 +1,13 @@
 # Hi 👋 I'm Rehan Khan
 
-💻 **Software Engineer | Full Stack Developer**
+**Software Engineer | Full Stack Developer**
 🌍 Based in Rawalakot, Pakistan
-🚀 Building web applications, AI tools, and scalable platforms
-🏢 Founder at **Xavics**
+Building web applications, AI tools, and scalable platforms
+
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a full-stack developer with experience building modern web applications, developer tools, and AI-powered platforms. I enjoy working across the entire stack — from backend systems to frontend interfaces.
 
