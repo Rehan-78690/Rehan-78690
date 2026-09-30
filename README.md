@@ -1,7 +1,8 @@
 # Hi 👋 I'm Rehan Khan
 
 **Software Engineer | Full Stack Developer**
-🌍 Rawalakot, Pakistan
+🌐 Portfolio: https://rehankhan.dev
+🌍 Islamabad, Pakistan
 
 Building scalable **web platforms, AI tools, and developer utilities**.
 
